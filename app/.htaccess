@@ -1,0 +1,5 @@
+Options -Indexes
+
+RewriteEngine On
+RewriteBase /
+RewriteRule ^about$ index.php?controller=About&method=index [L]
