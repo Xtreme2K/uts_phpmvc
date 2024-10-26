@@ -30,15 +30,17 @@
                 <a href="#">
                     <ion-icon name="logo-facebook" class="text-2xl text-black"></ion-icon>
                 </a>
-                <a href="#">
+                <a href="https://www.instagram.com/satriaadnt_/">
                     <ion-icon name="logo-instagram" class="text-2xl text-black"></ion-icon>
+                </a>
+                <a href="https://github.com/pablooqt">
+                    <ion-icon name="logo-github" class="text-2xl text-black"></ion-icon>
                 </a>
             </div>
         </div>
 
         <div>
             <h3 class="font-bold text-xl mb-4">WE ACCEPT ALL PAYMENT</h3>
-            <!-- Tambahkan logo di bawah ini -->
             <div class="flex space-x-4">
             </div>
         </div>

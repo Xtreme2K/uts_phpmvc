@@ -21,7 +21,6 @@
 
             <div class="flex items-center justify-center space-x-6 ml-12">
                 <a href="<?= BASEURL; ?>" class="text-gray-700 font-semibold hover:text-yellow-500">Home</a>
-                <!-- Only show "Our Products" if not on the About Us page -->
                 <?php if ($data['judul'] !== 'About Us') : ?>
                     <a href="#our-products" class="text-gray-700 font-semibold hover:text-yellow-500">Our Products</a>
                 <?php endif; ?>
